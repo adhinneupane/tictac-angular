@@ -1,5 +1,8 @@
 # TicTacToe in Angular
 
+![image](https://user-images.githubusercontent.com/38281651/211182713-3ae19b78-5c33-4500-a078-148c1c4a0139.png)
+
+
 Play Game here: https://adhinneupane.github.io/tictac-angular/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
